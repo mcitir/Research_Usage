@@ -4,6 +4,17 @@ Pandoc is a universal document converter
 
 
 # Software Libraries
+## Simulators
+### LGSVL
+
+An open simulation platform for Autonomous Driving
+
+[Video Tutorial](https://www.youtube.com/watch?v=Ucr0aM334_k)
+
+[Markdown Tutorial](https://github.com/mcitir/Research_Usage/blob/main/LGSVL.md)
+
+[PDF Tutorial](https://drive.google.com/drive/u/0/folders/1Tc9GVsLOPHN3-AgItJ_saFR0pCRCootr)
+
 ## Python
 ### SymPy [link](https://www.sympy.org/en/index.html)
 SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible.
