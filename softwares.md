@@ -4,6 +4,11 @@ Pandoc is a universal document converter
 
 
 # Software Libraries
+## Full Stack AV Softwares
+Autoware.ai (Based on ROS) - [Link](https://www.autoware.org/autoware-ai)
+Autoware.auto (based on ROS2) [Link](https://www.autoware.org/autoware-auto)
+Apollo (https://www.apollo.auto/developer.html)
+
 ## Simulators
 ### LGSVL
 
