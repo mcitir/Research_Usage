@@ -7,6 +7,11 @@
 
 ### Techniques 
 - Mixed reality (MR) Simulation
+- Multi-Agent Coordination Planner for Multi-Goal Tasks
+  - [Enhanced Conflict-Based Search with Optimal Task Assignment (ECBS-TA)](https://act.usc.edu/publications/Hoenig_AAMAS2018a.pdf)
+
+![image](https://user-images.githubusercontent.com/35730346/141661718-1c9dd3c7-c767-4c2e-a39c-e1122e062746.png)
+ 
 
 
 #### Perception
